@@ -136,3 +136,12 @@ body {
 
 .modulo.roxo-escuro { border: 2px solid #4A148C; }
 .modulo.roxo-escuro > h3 { background-color: #4A148C; }
+
+    p.divisao {
+        margin-bottom:2px;
+        font-weight:bold;
+    }
+    p.hr {
+        margin:0;
+    }
+
